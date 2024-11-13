@@ -19,12 +19,12 @@ cnn.ipynb: Jupyter Notebook containing the implementation of the Convolutional N
 mlp.ipynb: Jupyter Notebook containing the implementation of the Multi-layer Perceptron for image classification.
 
 - Results
-  -MLP Model:
+  - MLP Model:
 
 Final Test Accuracy: 50% (minimum)
 Final Train Accuracy: 60% (minimum)
 
-  -CNN Model:
+  - CNN Model:
 
 Final Test Accuracy: 70% (minimum)
 Final Train Accuracy: 80% (minimum)
