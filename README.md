@@ -1,4 +1,4 @@
-PyTorch Image Classification
+PyTorch Image Classification:
 This repository contains the implementation of two neural network architectures using PyTorch for classifying images in the CIFAR-10 dataset. The project includes a multi-layer perceptron (MLP) and a convolutional neural network (CNN), both trained to classify images into 10 different classes.
 
 Introduction
@@ -11,6 +11,15 @@ Project Structure:
 cnn.ipynb: Jupyter Notebook containing the implementation of the Convolutional Neural Network for image classification.
 mlp.ipynb: Jupyter Notebook containing the implementation of the Multi-layer Perceptron for image classification.
 
+Results
+MLP Model:
+
+Final Test Accuracy: 50% (minimum)
+Final Train Accuracy: 60% (minimum)
+CNN Model:
+
+Final Test Accuracy: 70% (minimum)
+Final Train Accuracy: 80% (minimum)
 Results
 MLP Model:
 
